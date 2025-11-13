@@ -29,7 +29,7 @@ const Skills = () => {
         </div>
       </div>
       <div className='detialTabs flex flex-wrap items-center justify-between gap-6 p-5 border w-[45%] max-sm:w-full rounded-lg m-2'>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSITHn_TgjDyhdWvePNw0mveDrTUr00GLfv_Q&s" className='w-[40%]' alt="" />
+        <img src="https://www.pngkey.com/png/full/383-3838923_open-mongodb-icon.png" className='w-[40%]' alt="" />
         <div className='flex flex-col items-end justify-between gap-2'>
           <h1 className='text-[18px]'>MongoDB</h1>
           <p className='text-[#848484]'>82%</p>
@@ -43,7 +43,7 @@ const Skills = () => {
         </div>
       </div>
       <div className='detialTabs flex flex-wrap items-center justify-between gap-6 p-5 border w-[45%] max-sm:w-full rounded-lg m-2'>
-        <img src="https://i.pinimg.com/736x/27/45/30/2745305c9702bceee2525cc24e1d00c2.jpg" className='w-[60%]' alt="" />
+        <img src="https://pngimg.com/d/mysql_PNG19.png" className='w-[60%]' alt="" />
         <div className='flex flex-col items-end justify-between gap-2'>
           <h1 className='text-[18px]'>MYSQL</h1>
           <p className='text-[#848484]'>95%</p>
@@ -67,14 +67,49 @@ const Skills = () => {
         <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" className='w-[40%]' alt="" />
         <div className='flex flex-col items-end justify-between gap-2'>
           <h1 className='text-[18px]'>React Native</h1>
-          <p className='text-[#848484]'>88%</p>
+          <p className='text-[#848484]'>95%</p>
         </div>
       </div>
       <div className='detialTabs flex flex-wrap items-center justify-between gap-6 p-5 border w-[45%] max-sm:w-full rounded-lg m-2'>
         <img src="https://cdn-icons-png.flaticon.com/256/25/25231.png" className='w-[40%] bg-white rounded-3xl' alt="" />
         <div className='flex flex-col items-end justify-between gap-2'>
-          <h1 className='text-[18px]'>React Native</h1>
+          <h1 className='text-[18px]'>GitHub</h1>
           <p className='text-[#848484]'>88%</p>
+        </div>
+      </div>
+      <div className='detialTabs flex flex-wrap items-center justify-between gap-6 p-5 border w-[45%] max-sm:w-full rounded-lg m-2'>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-svg-download-png-2945092.png?f=webp" className='w-[40%] bg-white rounded-3xl' alt="" />
+        <div className='flex flex-col items-end justify-between gap-2'>
+          <h1 className='text-[18px]'>Postman</h1>
+          <p className='text-[#848484]'>90%</p>
+        </div>
+      </div>
+      <div className='detialTabs flex flex-wrap items-center justify-between gap-6 p-5 border w-[45%] max-sm:w-full rounded-lg m-2'>
+        <img src="https://images.seeklogo.com/logo-png/20/2/html5-logo-png_seeklogo-206834.png" className='w-[40%] rounded-3xl' alt="" />
+        <div className='flex flex-col items-end justify-between gap-2'>
+          <h1 className='text-[18px]'>HTML</h1>
+          <p className='text-[#848484]'>100%</p>
+        </div>
+      </div>
+      <div className='detialTabs flex flex-wrap items-center justify-between gap-6 p-5 border w-[45%] max-sm:w-full rounded-lg m-2'>
+        <img src="https://icon-library.com/images/css3-icon/css3-icon-28.jpg" className='w-[40%]  rounded-3xl' alt="" />
+        <div className='flex flex-col items-end justify-between gap-2'>
+          <h1 className='text-[18px]'>CSS</h1>
+          <p className='text-[#848484]'>100%</p>
+        </div>
+      </div>
+      <div className='detialTabs flex flex-wrap items-center justify-between gap-6 p-5 border w-[45%] max-sm:w-full rounded-lg m-2'>
+        <img src="https://i.pinimg.com/originals/c6/a0/3d/c6a03d9d5806042ecd6785d4d8d5d5a2.jpg" className='w-[40%] h-full rounded-3xl' alt="" />
+        <div className='flex flex-col items-end justify-between gap-2'>
+          <h1 className='text-[18px]'>JavaScript</h1>
+          <p className='text-[#848484]'>99%</p>
+        </div>
+      </div>
+      <div className='detialTabs flex flex-wrap items-center justify-between gap-6 p-5 border w-[45%] max-sm:w-full rounded-lg m-2'>
+        <img src="https://dominickm.com/wp-content/uploads/2016/06/spring-boot-logo_full.png" className='w-[40%] h-full rounded-3xl' alt="" />
+        <div className='flex flex-col items-end justify-between gap-2'>
+          <h1 className='text-[18px]'>Spring Boot</h1>
+          <p className='text-[#848484]'>90%</p>
         </div>
       </div>
       </div>
